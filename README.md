@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **50 java-script function**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **React-Native**
 
 - 💬 Ask me about **MERN**
 
