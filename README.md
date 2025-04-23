@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-saurabh23" alt="its-saurabh23" /></a> </p>
 
-- 🔭 I’m currently working on **50 java-script function**
+- 🔭 I’m currently working on **Going to start leetcode again**
 
 - 🌱 I’m currently learning **React-Native**
 
