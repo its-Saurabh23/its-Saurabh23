@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Going to start leetcode again**
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Full Stack flow an application**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN + Cross Platform**
 
 - 📫 How to reach me **kavinelevin12345@gmail.com**
 
