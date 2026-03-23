@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh </h1>
 <h3 align="center">A passionate Cross Platform developer from India</h3>
 # 💫 About Me:
-🚀 Developer | Problem Solver | Lifelong Learner<br>💻 Passionate about building scalable and efficient software<br>🌱 Currently exploring Full Stack Development<br>🐛 I don’t fix bugs, I eliminate them<br>💻 Writing code that future me won’t hate<br>📚 Learning today, leading tomorrow<br>🚀 Slowly becoming unstoppable<br>🛠️ C++ | Algorithms | Backend in progress<br>🎯 Mission: Crack top tech companies
+🚀 Developer | Problem Solver | Lifelong Learner<br>💻 Passionate about building scalable and efficient software<br>🌱 Currently exploring Full Stack Development<br>🐛 I don't fix bugs, I eliminate them<br>💻 Writing code that future me won't hate<br>📚 Learning today, leading tomorrow<br>🚀 Slowly becoming unstoppable<br>🛠️ C++ | Algorithms | Backend in progress<br>🎯 Mission: Crack top tech companies
 
 
 ## 🌐 Socials:
@@ -15,6 +15,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=its-Saurabh23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=its-Saurabh23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-Saurabh23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🐍 My Contributions Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/its-Saurabh23/its-Saurabh23/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/its-Saurabh23/its-Saurabh23/output/snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/its-Saurabh23/its-Saurabh23/output/snake.svg" />
+</picture>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=its-Saurabh23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
